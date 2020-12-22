@@ -1,0 +1,39 @@
+Food service app that provides following service:
+
+-Allows users to keep track of what they have in their pantrys at home
+	)Amount
+	)Purchase/Experation Date
+	)Other misc detail needed
+
+-Allow users to create shopping list
+	)Will compare to ingredients at home to see how much is needed/have
+	)Submit purchase date and expiration date
+	)Submit and add ingredients to pantry afer purchase with full details
+	)Can automatically add ingredients to shopping list that are needed for recipe that arent already owned
+	)Sent users a list in txt that will auto add to food to pantry
+
+-Allow users to look up and save recipes
+	)Can compare what you need to make it
+	)Tell you what ingredients needed to purchase
+	)Provide conversions in order to double/halve the recipe
+	)Allow users to make custom recipes or save them off the internet
+	***May need use screen scraping to get recipe info off the web
+	)Can add specifications to find recipes with specific ingredients
+	)Can find recipes for specific diets(keto, vegan, ect)
+	)Provide caloric and nutritional values of the meal
+	)Filter by possible meal cost?
+	)*Convert non-vegan/non-vegitarian recipes to vegan/vegitarian or other diets like keto
+
+************************************************************************************************************
+-Allow users to "cook" food
+	)Will provide needed ingredients
+	)Will provide instructions to cook
+	)Will provide timers to help keep track of cooking food
+	***Possibly create alerts in case of food burning? (Maybe for beginner chefs)
+
+
+
+
+		***Additional features***
+-Use barcode scanner to add ingredients to basket
+-Use grocery list to automatically make a walmart pickup/ instacart delivery
